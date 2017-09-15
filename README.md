@@ -13,6 +13,11 @@ https://arxiv.org/abs/1603.03039<br>
 Section 1 is a good to the whole concept of tensor networks and the graphical notation.
 Section 3 talks about MPS, and covers some of the things we have covered and will cover, in addition to stuff we wont' talk about in this course.
 
+Unfortunately, I've struggled to find references that would introduce MPS in the manner we are doing it here, i.e., concentrating on uniform, infinite MPSes, and slowly going over the fundamentals, assuming no prior knowledge. However, here's a few you can try if you want to:<br>
+https://arxiv.org/pdf/quant-ph/0608197.pdf<br>
+https://arxiv.org/pdf/0907.2796.pdf<br>
+https://arxiv.org/pdf/1306.2164.pdf
+
 ## The files
 
 `meeting_01.ipynb`
