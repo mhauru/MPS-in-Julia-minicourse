@@ -31,3 +31,6 @@ A template notebook for the first homework, with blanks to fill in.
 
 `MPSTools.jl`
 A fancier template for the first homework, with a module and some parametric types and all kinds of other goodies. For the hardcore.
+
+`meeting_03.ipynb`
+An IJulia notebook for the third meeting. Enhanced after the meeting with notes on the stuff we didn't have time to cover live. Also includes instructions and a template for the second homework.
