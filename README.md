@@ -18,19 +18,18 @@ https://arxiv.org/pdf/quant-ph/0608197.pdf<br>
 https://arxiv.org/pdf/0907.2796.pdf<br>
 https://arxiv.org/pdf/1306.2164.pdf
 
+iTEBD:<br>
+Section 2 of https://arxiv.org/pdf/0711.3960.pdf for the canonical form.<br>
+https://arxiv.org/pdf/cond-mat/0605597.pdf for the algorithm itself.
+
+
 ## The files
 
-`meeting_01.ipynb`
-An IJulia notebook for the first meeting.
-
-`meeting_02.ipynb`
-An IJulia notebook for the second meeting.
+`meeting_01.ipynb` ... `meeting_05.ipynb`
+IJulia notebooks for the meetings. Include solutions templates and solutions to the homework.
 
 `homework_01_template.ipynb`
 A template notebook for the first homework, with blanks to fill in.
 
 `MPSTools.jl`
 A fancier template for the first homework, with a module and some parametric types and all kinds of other goodies. For the hardcore.
-
-`meeting_03.ipynb`
-An IJulia notebook for the third meeting. Enhanced after the meeting with notes on the stuff we didn't have time to cover live. Also includes instructions and a template for the second homework.
